@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hennypurwadi
 - 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently learning Time Series and Deep Learning
+- 🌱 I’m currently learning Time Series, Deep Learning, NLP/ Natural Languange Processing
 - 📫 How to reach me hennypurwadiblom@gmail.com
 
 <!---
