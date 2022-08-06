@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henny
 - 👀 I’m interested in Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently learning Time Series, Deep Learning, NLP/ Natural Languange Processing.
+- 🌱 I’m currently learning Time Series, Deep Learning, NLP, Computer Vision.
 - 📫 How to reach me hennypurwadiblom@gmail.com
 
 <!---
